@@ -1,2 +1,2 @@
-# letcode
+# leetcode
 my decisions on letcode
