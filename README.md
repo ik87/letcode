@@ -1,2 +1,2 @@
 # leetcode
-my decisions on letcode
+my decisions on leetcode
